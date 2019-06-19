@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Harry Potter
+* My dogs
+  * Henry
+  * Toby
+* My cats
+  * Leela
+  * Kal
+* My comfy bed
+* Oh, and my husband :smile:
